@@ -1,0 +1,5 @@
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsClasses\bin\Debug\CSharpProgrammingBasicsClasses.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsClasses\bin\Debug\CSharpProgrammingBasicsClasses.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsClasses\obj\Debug\CSharpProgrammingBasicsClasses.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsClasses\obj\Debug\CSharpProgrammingBasicsClasses.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsClasses\obj\Debug\CSharpProgrammingBasicsClasses.pdb

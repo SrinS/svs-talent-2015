@@ -1,0 +1,11 @@
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\bin\Debug\CSharpProgrammingBasicsTransactionApp.exe.config
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\bin\Debug\CSharpProgrammingBasicsTransactionApp.exe
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\bin\Debug\CSharpProgrammingBasicsTransactionApp.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\bin\Debug\CSharpProgrammingBasicsClasses.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\bin\Debug\CSharpProgrammingBasicsClasses.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\obj\Debug\CSharpProgrammingBasicsTransactionApp.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\obj\Debug\CSharpProgrammingBasicsTransactionApp.frmMain.resources
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\obj\Debug\CSharpProgrammingBasicsTransactionApp.Properties.Resources.resources
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\obj\Debug\CSharpProgrammingBasicsTransactionApp.csproj.GenerateResource.Cache
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\obj\Debug\CSharpProgrammingBasicsTransactionApp.exe
+C:\Users\Sanja\Desktop\svs-talent-2015\CSharpProgrammingBasics\CSharpProgrammingBasicsTransactionApp\obj\Debug\CSharpProgrammingBasicsTransactionApp.pdb
