@@ -1,0 +1,9 @@
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\bin\Debug\ExampleLcp.exe.config
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\obj\Debug\ExampleLcp.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\bin\Debug\ExampleLcp.exe
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\bin\Debug\ExampleLcp.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\obj\Debug\ExampleLcp.exe
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\obj\Debug\ExampleLcp.pdb
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\bin\Debug\ExampleLcp.exe.config
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\obj\Debug\ExampleLcp.exe
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_LCP\ExampleLcp\ExampleLcp\obj\Debug\ExampleLcp.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\ExampleSrp\obj\Debug\ExampleSrp.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\ExampleSrp\bin\Debug\ExampleSrp.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\ExampleSrp\bin\Debug\ExampleSrp.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\ExampleSrp\obj\Debug\ExampleSrp.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\ExampleSrp\obj\Debug\ExampleSrp.pdb

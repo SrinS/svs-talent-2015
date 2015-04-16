@@ -1,0 +1,12 @@
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\bin\Debug\ExampleOcp.exe.config
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\bin\Debug\ExampleOcp.exe
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\bin\Debug\ExampleOcp.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\obj\Debug\ExampleOcp.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\obj\Debug\ExampleOcp.exe
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\obj\Debug\ExampleOcp.pdb
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\bin\Debug\ExampleOcp.exe.config
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\obj\Debug\ExampleOcp.exe
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\obj\Debug\ExampleOcp.pdb
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\bin\Debug\ExampleOcp.exe
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\bin\Debug\ExampleOcp.pdb
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_OCP\ExampleOcp\ExampleOcp\obj\Debug\ExampleOcp.csprojResolveAssemblyReference.cache

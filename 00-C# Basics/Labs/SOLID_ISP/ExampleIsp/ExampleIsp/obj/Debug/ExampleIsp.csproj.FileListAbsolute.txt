@@ -1,0 +1,15 @@
+D:\WorkingProjects\GitHub\svs-talent-2015\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.csprojResolveAssemblyReference.cache
+D:\WorkingProjects\GitHub\svs-talent-2015\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\bin\Debug\ExampleIsp.dll
+D:\WorkingProjects\GitHub\svs-talent-2015\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\bin\Debug\ExampleIsp.pdb
+D:\WorkingProjects\GitHub\svs-talent-2015\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.dll
+D:\WorkingProjects\GitHub\svs-talent-2015\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\bin\Debug\ExampleIsp.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\bin\Debug\ExampleIsp.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.pdb
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_ISP\ExampleIsp\ExampleIsp\bin\Debug\ExampleIsp.dll
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_ISP\ExampleIsp\ExampleIsp\bin\Debug\ExampleIsp.pdb
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.dll
+C:\Users\Sanja\Desktop\svs-talent-20155\00-C# Basics\Labs\SOLID_ISP\ExampleIsp\ExampleIsp\obj\Debug\ExampleIsp.pdb
