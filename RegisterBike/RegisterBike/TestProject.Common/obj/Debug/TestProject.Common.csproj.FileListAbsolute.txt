@@ -1,0 +1,8 @@
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\bin\Debug\NLog.config
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\bin\Debug\TestProject.Common.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\bin\Debug\TestProject.Common.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\bin\Debug\NLog.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\bin\Debug\NLog.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\obj\Debug\TestProject.Common.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\obj\Debug\TestProject.Common.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Common\obj\Debug\TestProject.Common.pdb

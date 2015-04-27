@@ -1,0 +1,14 @@
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\obj\Debug\TestProject.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\NLog.config
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.BusinessLayer.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.BusinessLayer.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.Common.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.DAL.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.Repository.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.Common.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.DAL.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\TestProject.Repository.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\obj\Debug\TestProject.BusinessLayer.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BusinessLayer\obj\Debug\TestProject.BusinessLayer.pdb

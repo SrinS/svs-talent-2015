@@ -1,0 +1,15 @@
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\NLog.config
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.Repository.dll.config
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.Repository.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.Repository.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.Common.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.DAL.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.Common.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\TestProject.DAL.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\obj\Debug\TestProject.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\obj\Debug\TestProject.Repository.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.Repository\obj\Debug\TestProject.Repository.pdb

@@ -1,0 +1,175 @@
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\TestProject.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\EntityFramework.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Owin.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Optimization.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Razor.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.WebPages.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\WebGrease.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Optimization.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.Razor.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.WebPages.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\EntityFramework.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\Sanja\Desktop\svs-talent-2015-master\00-C# Basics\Labs\SOLID_OCP\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\TestProject.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\EntityFramework.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Owin.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Optimization.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Razor.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.WebPages.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\TestProject.DAL.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\WebGrease.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\TestProject.DAL.pdb
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Optimization.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.Razor.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.WebPages.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\EntityFramework.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\Sanja\Desktop\RegisterBike\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.dll.config
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Antlr3.Runtime.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\EntityFramework.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Newtonsoft.Json.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Owin.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Optimization.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Razor.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.WebPages.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.DAL.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\WebGrease.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.DAL.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Optimization.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.Razor.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.WebPages.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Antlr3.Runtime.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Newtonsoft.Json.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\EntityFramework.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\obj\Debug\TestProject.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\NLog.config
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.BusinessLayer.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.Common.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.Repository.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.BusinessLayer.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.Common.pdb
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject\bin\TestProject.Repository.pdb

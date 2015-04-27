@@ -1,0 +1,120 @@
+﻿@model TestProject.Models.BikeViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+@using (Html.BeginForm("Bike", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>Add bike.</h4>
+    <hr />
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Model, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Model, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Model)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Tip, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Tip, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Tip)
+        </div>
+
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.SeriskiBroj, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.SeriskiBroj, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.SeriskiBroj)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DatumNaProizvodstvo, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.DatumNaProizvodstvo, new { @class = "form-control datepicker" })
+            @Html.ValidationMessageFor(m => m.DatumNaProizvodstvo)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.DatumNaKupuvanje, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.DatumNaKupuvanje, new { @class = "form-control datepicker" })
+            @Html.ValidationMessageFor(m => m.DatumNaKupuvanje)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Grad, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Grad, (IEnumerable<SelectListItem>)ViewBag.City, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Grad)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Flag, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Flag, (IEnumerable<SelectListItem>)ViewBag.Flags, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Flag)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.BrojNaBrizini, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.BrojNaBrizini, new { @class = "form-control", @type = "number", max = 24, min = 1 })
+            @Html.ValidationMessageFor(m => m.BrojNaBrizini)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Boja1, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Boja1, (IEnumerable<SelectListItem>)ViewBag.Colors, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Boja1)
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Boja2, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Boja2, (IEnumerable<SelectListItem>)ViewBag.Colors, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.MaterijalNaRamka, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.MaterijalNaRamka, (IEnumerable<SelectListItem>)ViewBag.Matrijali, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.MaterijalNaRamka)
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Vid, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.Vid, (IEnumerable<SelectListItem>)ViewBag.Vid, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Vid)
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Create" />
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery-ui-1.11.4.js"></script>
+<script src="/Scripts/bootstrap.js"></script>
+<link href="/Content/bootstrap.css" rel="stylesheet" />
+<link href="/Content/bootstrap-datepicker.css" rel="stylesheet" />
+<script type="text/javascript">
+        $(".datepicker").datepicker();
+</script>
