@@ -1,0 +1,7 @@
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\bin\Debug\TestProject.BikeDB.dacpac
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\obj\Debug\Model.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\obj\Debug\refactor.xml
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\obj\Debug\postdeploy.sql
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\obj\Debug\predeploy.sql
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\obj\Debug\TestProject.BikeDB.dll
+C:\Users\Sanja\Desktop\svs-talent-2015\svs-talent-2015\RegisterBike\RegisterBike\TestProject.BikeDB\obj\Debug\TestProject.BikeDB.pdb
